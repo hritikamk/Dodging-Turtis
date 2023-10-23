@@ -1,4 +1,7 @@
-# Dodging Turtis
+# Dodging Turtis 
+
+Publication Link - https://ieeexplore.ieee.org/document/10235055
+
 
 We created an NFT based game which runs on the `POLYGON` network in the `Ethereum` Blockchain and is powered by decentralized `Chainlink` Oracles.
 
