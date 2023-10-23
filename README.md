@@ -2,6 +2,7 @@
 
 Publication Link - https://ieeexplore.ieee.org/document/10235055
 
+
 We created an NFT based game which runs on the `POLYGON` network in the `Ethereum` Blockchain and is powered by decentralized `Chainlink` Oracles.
 
 ![Turtis](https://user-images.githubusercontent.com/55662714/140104440-6cf7ed0d-5b7f-47ba-8b8a-f234504515e1.png)
